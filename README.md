@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kate1212klim
-- 👀 I’m interested in design
-- 🌱 I’m currently learning mobile ux/ui
+- 👀 I’m interested in design, automatization
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me https://www.linkedin.com/in/katya-klimenkova-628700224/
 
