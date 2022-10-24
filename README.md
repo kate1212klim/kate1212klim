@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kate1212klim
+- 👋 Hi, I’m Katya
 - 👀 I’m interested in design, automatization
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on interesting projects
